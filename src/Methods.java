@@ -44,4 +44,8 @@ public class Methods {
         return n + 2;
     }
     
+    public static int add(int n1,int n2){//adds and returns two passed numbers
+        return n1 + n2;
+    }
+    
 }
